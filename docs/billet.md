@@ -12,7 +12,9 @@
  - Audience : 30 personnes
  - Auteur du billet : Thibault Pawlak
  - Mots-clés : *Haskell* - *Stack* - *Back-End*
- - URL de l'illustration : ![Résumé d'une conférence Haskell](https://github.com/prodageo/conf2018a-ThibaultPawlak/blob/master/docs/haskell.png)
+ - URL de l'illustration :
+ 
+ ![Résumé d'une conférence Haskell](https://github.com/prodageo/conf2018a-ThibaultPawlak/blob/master/docs/haskell.png)
  - Sources :
     -  https://docs.haskellstack.org/en/stable/README/,
     -  https://www.haskell.org/,
