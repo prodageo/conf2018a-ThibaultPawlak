@@ -40,16 +40,19 @@
 ## Résumé
 Céline Louvet fait partie d'une start-up nommée *Fairvioo*, qui a pour but la récolte d'avis client à but caritatif.
 Pour leur architecture serveur, ils ont du faire face au choix de la technologie a utiliser.
-Elle a fait le choix de Haskell pour plusieurs raisons : Découvrir un nouveau langage.C'est également un programme fonctionnel et cela s'adaptait parfaitement à l'architecture qu'ils souhaitaient installer.
-Cependant, Haskell est un langage de programmation relativement complexe. Elle explique alors les spécificités du langage, notamment les alias de type et le mot-clé *let*.
+
+Elle a fait le choix de Haskell pour plusieurs raisons : Découvrir un nouveau langage.C'est également un programme fonctionnel et cela s'adaptait parfaitement à l'architecture qu'ils souhaitaient installer. Cependant, Haskell est un langage de programmation relativement complexe. Elle explique alors les spécificités du langage, notamment les alias de type et le mot-clé *let*.
+
+
 Une fois le langage expliquée, celle-ci développe la stack de leur start-up, basée entièrement sur Haskell :
-IDE : VSCode + Package Haskero
-Packaging : Cabal ou Stack
-CI : CircleCI
-Déploiement : Clever Cloud
-Framework de DB : postgresql-simple
-Tests : HUnit
+  * IDE : VSCode + Package Haskero
+  * Packaging : Cabal ou Stack
+  * CI : CircleCI
+  * Déploiement : Clever Cloud
+  * Framework de DB : postgresql-simple
+  * Tests : HUnit
 S'ensuit un approfondissement du modèle utilisé, ici CRUD mélé à une REST API.
+
 En conclusion, les performances sont bonnes, même si celle-ci admet qu'ils n'ont pas benché leur code.
 Elle liste ensuite les points négatifs puis positifs d'Haskell, ressortent notamment la complexité d'un coté et le compilateur très puissant de l'autre. Celle-ci conclut que, malgré les difficultés, il est difficile de revenir à un autre langage.
 
