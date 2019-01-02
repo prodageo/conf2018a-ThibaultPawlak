@@ -57,4 +57,4 @@ En conclusion, les performances sont bonnes, même si celle-ci admet qu'ils n'on
 Elle liste ensuite les points négatifs puis positifs d'Haskell, ressortent notamment la complexité d'un coté et le compilateur très puissant de l'autre. Celle-ci conclut que, malgré les difficultés, il est difficile de revenir à un autre langage.
 
 ## Architecture et facteur qualité
-...
+Le facteur qualité implicitement mis en avant dans cette conférence est *Fiabilité*. En effet, Cécile Louvet nous montre une stack de production complète et un environnement de développement, basé uniquement sur Haskell. Or, c'est un langage très performant et qui
