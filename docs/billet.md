@@ -39,10 +39,9 @@
 
 ## Résumé
 Céline Louvet fait partie d'une start-up nommée *Fairvioo*, qui a pour but la récolte d'avis client à but caritatif.
-Pour leur architecture serveur, ils ont du faire face au choix de la technologie a utiliser.
+Pour leur architecture serveur, ils ont dû faire face au choix de la technologie a utiliser.
 
-Elle a fait le choix de Haskell pour plusieurs raisons : Découvrir un nouveau langage.C'est également un programme fonctionnel et cela s'adaptait parfaitement à l'architecture qu'ils souhaitaient installer. Cependant, Haskell est un langage de programmation relativement complexe. Elle explique alors les spécificités du langage, notamment les alias de type et le mot-clé *let*.
-
+Elle a fait le choix de Haskell pour plusieurs raisons. Premièrement, découvrir un nouveau langage. Également, c'est un langage fonctionnel et cela s'adaptait parfaitement à l'architecture qu'ils souhaitaient installer. Cependant, Haskell est un langage relativement complexe. Elle explique alors les spécificités du langage, notamment les alias de type et le mot-clé *let*.
 
 Une fois le langage expliquée, celle-ci développe la stack de leur start-up, basée entièrement sur Haskell :
   * IDE : VSCode + Package Haskero
